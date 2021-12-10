@@ -1,0 +1,4 @@
+export const FETCH_GAME = "FETCH_GAMES";
+export const FETCH_DETAIL = "FETCH_DETAIL";
+export const FETCH_SEARCH = "FETCH_SEARCH";
+export const LOADING_DETAIL = "LOADING_DETAIL";
